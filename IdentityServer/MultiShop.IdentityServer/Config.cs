@@ -21,7 +21,8 @@ namespace MultiShop.IdentityServer
            new ApiResource("ResourcePayment"){Scopes={ "PaymentFullPermission" } },
            new ApiResource("ResourceImage"){Scopes={ "ImageFullPermission" } },
            new ApiResource("ResourceOcelot"){Scopes={"OcelotFullPermission"} },
-           new ApiResource("ResourceMessage"){Scopes={"MessageFullPermission"} },
+           new ApiResource("ResourceMessage"){Scopes={"MessageFullPermission"} }, 
+
            new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
        };
 
