@@ -1,4 +1,4 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.ContactDtos;
+﻿using MultiShop.DtoLayer.Dtos.CatalogDtos.ContactDtos;
 using Newtonsoft.Json;
 
 namespace MultiShop.WebUI.Services.CatalogServices.ContactServices

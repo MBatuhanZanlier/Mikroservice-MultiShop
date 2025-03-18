@@ -1,4 +1,4 @@
-﻿using MultiShop.DtoLayer.CommentDtos;
+﻿using MultiShop.DtoLayer.Dtos.CommentDtos;
 using Newtonsoft.Json;
 
 namespace MultiShop.WebUI.Services.CommentServices

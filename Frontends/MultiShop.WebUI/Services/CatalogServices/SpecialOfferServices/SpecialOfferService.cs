@@ -1,4 +1,5 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.SpecialOfferDtos;
+﻿
+using MultiShop.DtoLayer.Dtos.CatalogDtos.SpecialOfferDtos;
 using Newtonsoft.Json;
 
 namespace MultiShop.WebUI.Services.CatalogServices.SpecialOfferServices

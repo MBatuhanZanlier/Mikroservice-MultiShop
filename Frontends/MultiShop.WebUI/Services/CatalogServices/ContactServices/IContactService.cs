@@ -1,4 +1,4 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.ContactDtos;
+﻿using MultiShop.DtoLayer.Dtos.CatalogDtos.ContactDtos;
 
 namespace MultiShop.WebUI.Services.CatalogServices.ContactServices
 {

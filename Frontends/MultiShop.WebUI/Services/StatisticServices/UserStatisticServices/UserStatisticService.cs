@@ -1,5 +1,4 @@
 ﻿
-using MultiShop.DtoLayer.IdentityDtos.UserDtos;
 using Newtonsoft.Json;
 
 namespace MultiShop.WebUI.Services.StatisticServices.UserStatisticServices

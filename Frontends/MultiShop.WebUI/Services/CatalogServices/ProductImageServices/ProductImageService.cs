@@ -1,4 +1,5 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.ProductImageDtos;
+﻿
+using MultiShop.DtoLayer.Dtos.CatalogDtos.ProductImageDtos;
 using Newtonsoft.Json;
 
 namespace MultiShop.WebUI.Services.CatalogServices.ProductImageServices

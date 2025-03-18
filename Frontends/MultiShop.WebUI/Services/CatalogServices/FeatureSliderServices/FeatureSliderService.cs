@@ -1,4 +1,5 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.FeatureSliderDtos;
+﻿
+using MultiShop.DtoLayer.Dtos.CatalogDtos.FeatureSliderDtos;
 using Newtonsoft.Json;
 
 namespace MultiShop.WebUI.Services.CatalogServices.FeatureSliderServices

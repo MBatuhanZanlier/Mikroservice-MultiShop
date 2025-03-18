@@ -1,4 +1,5 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.BrandDtos;
+﻿
+using MultiShop.DtoLayer.Dtos.CatalogDtos.BrandDtos;
 using Newtonsoft.Json;
 
 namespace MultiShop.WebUI.Services.CatalogServices.BrandServices

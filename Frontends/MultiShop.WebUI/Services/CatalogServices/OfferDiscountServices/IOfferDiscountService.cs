@@ -1,4 +1,6 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.OfferDiscountDtos;
+﻿
+
+using MultiShop.DtoLayer.Dtos.CatalogDtos.OfferDiscountDtos;
 
 namespace MultiShop.WebUI.Services.CatalogServices.OfferDiscountServices
 {

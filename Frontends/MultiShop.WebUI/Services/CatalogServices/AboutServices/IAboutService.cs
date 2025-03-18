@@ -1,4 +1,5 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.AboutDtos;
+﻿
+using MultiShop.DtoLayer.Dtos.CatalogDtos.AboutDtos;
 
 namespace MultiShop.WebUI.Services.CatalogServices.AboutServices
 {

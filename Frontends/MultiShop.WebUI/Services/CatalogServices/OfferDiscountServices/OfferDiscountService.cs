@@ -1,4 +1,5 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.OfferDiscountDtos;
+﻿
+using MultiShop.DtoLayer.Dtos.CatalogDtos.OfferDiscountDtos;
 using Newtonsoft.Json;
 
 namespace MultiShop.WebUI.Services.CatalogServices.OfferDiscountServices

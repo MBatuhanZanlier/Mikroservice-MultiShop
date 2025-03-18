@@ -1,4 +1,4 @@
-﻿using MultiShop.DtoLayer.CatalogDtos.FeatureDtos;
+﻿using MultiShop.DtoLayer.Dtos.CatalogDtos.FeatureDtos;
 using Newtonsoft.Json;
 
 namespace MultiShop.WebUI.Services.CatalogServices.FeatureServices
